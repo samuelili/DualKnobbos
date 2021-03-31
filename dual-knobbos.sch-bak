@@ -386,7 +386,7 @@ U 1 1 606695BE
 P 6350 2700
 F 0 "J1" H 6457 3567 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 6457 3476 50  0000 C CNN
-F 2 "Type-C:USB_C_GCT_USB4085" H 6500 2700 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_GCT_USB4085" H 6500 2700 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 6500 2700 50  0001 C CNN
 	1    6350 2700
 	1    0    0    -1  
