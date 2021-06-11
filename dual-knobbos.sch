@@ -776,4 +776,22 @@ Wire Wire Line
 Wire Wire Line
 	8750 4650 9250 4650
 Connection ~ 9250 5300
+Text GLabel 4550 3450 2    50   Input ~ 0
+COL3
+Text GLabel 4550 2050 2    50   Input ~ 0
+ENC0B
+Text GLabel 4550 3550 2    50   Input ~ 0
+ENC0A
+Text GLabel 4550 2150 2    50   Input ~ 0
+ENC1A
+Text GLabel 4550 2250 2    50   Input ~ 0
+ENC1B
+Text GLabel 4550 4050 2    50   Input ~ 0
+COL2
+Text GLabel 4550 4150 2    50   Input ~ 0
+COL1
+Text GLabel 4550 4250 2    50   Input ~ 0
+COL0
+Text GLabel 4550 4350 2    50   Input ~ 0
+COL3
 $EndSCHEMATC
